@@ -1,14 +1,14 @@
-# *Technologies for Information Systems* - Ethics Analysis
+# Technologies for Information Systems - Ethics Analysis
 
 ## Introduction
 
 This is an integrative project for the course *[Technologies for Information Systems](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=787593&polij_device_category=DESKTOP&__pj0=0&__pj1=c549e1e5e76cd55fb4f6b5591c1170fe)* at Politecnico di Milano. 
-The development of this project has been supervised by [Chiara Criscuolo](https://github.com/chiaracriscuolo), [Tommaso Dolci](https://github.com/TommasoD) and [Mattia Salnitri](https://github.com/MattiaSalnitri).
+The development of this project has been supervised by **Chiara Criscuolo** ([@chiaracriscuolo](https://github.com/chiaracriscuolo)), **Tommaso Dolci** ([@TommasoD](https://github.com/TommasoD)) and **Mattia Salnitri** ([@MattiaSalnitri](https://github.com/MattiaSalnitri)).
 
 The objective of this project is to create a user-friendly notebook for health researchers who may lack expertise in computer science or data science.
 The notebook is designed to analyze the ethical and biased aspects of a given dataset, with an emphasis on fairness.
 
-To achieve this goal, we have combined three distinct notebooks that were originally created by [Daniel Caputo](https://github.com/DanielCaputo111296) for analyzing a diabetes dataset.
+To achieve this goal, we have combined three distinct notebooks that were originally created by **Daniel Caputo** ([@DanielCaputo111296](https://github.com/DanielCaputo111296)) for analyzing a diabetes dataset.
 This work is based on the paper **Criscuolo, C., Dolci, T., Salnitri, M. (2022). Towards Assessing Data Bias in Clinical Trials. In: , et al. Heterogeneous Data Management, Polystores, and Analytics for Healthcare**, which is available [here](https://doi.org/10.1007/978-3-031-23905-2_5).
 
 The final notebook has been designed to be adaptable to various datasets.
