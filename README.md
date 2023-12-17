@@ -125,3 +125,7 @@ tis-project-diabetes-analysis
 - [AIF360](https://github.com/Trusted-AI/AIF360)
 - [fairlearn](https://github.com/fairlearn/fairlearn)
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+
+## 👨🏼‍💻 Components
+- **Andrea Prisciantelli** ([@priscia99](https://github.com/priscia99))
+- **Mattia Redaelli** ([@redaellimattia](https://github.com/redaellimattia))
