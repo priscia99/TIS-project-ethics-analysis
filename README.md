@@ -126,6 +126,6 @@ tis-project-diabetes-analysis
 - [fairlearn](https://github.com/fairlearn/fairlearn)
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
-## 👨🏼‍💻 Components
+## 👨🏼‍💻 Group Members
 - **Andrea Prisciantelli** ([@priscia99](https://github.com/priscia99))
 - **Mattia Redaelli** ([@redaellimattia](https://github.com/redaellimattia))
